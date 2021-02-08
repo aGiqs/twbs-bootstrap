@@ -74,6 +74,7 @@ E.g:
 # Changelog
 
     2021
+        - Adds plugins/v3/bootstrap-slider/v10.0.2
         - Adds version 3.3.1 
         - init repo
 
