@@ -2,7 +2,6 @@
 
 Versions of getbootstrap.com
 
-
 this is a repo to hold different versions of bootstrap you may need.
 
 This master branch only hold this readme to upgrade the branches
@@ -74,6 +73,7 @@ E.g:
 # Changelog
 
     2021
-        - Adds version 3.3.1
+        - Adds plugins/v3/bootstrap-slider/v10.0.2
+        - Adds version 3.3.1 
         - init repo
 
