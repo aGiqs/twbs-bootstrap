@@ -74,6 +74,6 @@ E.g:
 # Changelog
 
     2021
-        - Adds version 3.3.1 
+        - Adds version 3.3.1
         - init repo
 
